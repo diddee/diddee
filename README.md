@@ -1,16 +1,13 @@
-### Hi there 👋
+HI 👋, I'm Olawale Adeola
 
-<!--
-**diddee/diddee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
+I build and design human centered experiences for the web
+- 🔭 I’m currently based in Lagos, Nigeria
+- 🌱 I’m currently learning Redux and TypeScript
+- 👯 I’m looking to collaborate on React Projects
+- 💬 Ask me about Frontend development
+- 📫 How to reach me: olawaleadeola20@gmail.com
 - ⚡ Fun fact: ...
--->
+
+Languages and Tools:
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=diddee)](https://github.com/diddee/github-readme-stats)
